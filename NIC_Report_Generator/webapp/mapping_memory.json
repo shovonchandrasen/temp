@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "mappings": {
+    "Grameen NAS Matka Kulfi Desi Malai 100ml X 2": {
+      "inventory": "No Added Sugar Desi Malai Matka Kulfi (Pack of 2)",
+      "closing": "No Added Sugar Desi Malai Matka Kulfi (Pack of 2)"
+    },
+    "Grameen NAS Matka Kulfi Dry Fruit 100ml X 2": {
+      "inventory": "No Added Sugar Dry Fruit Matka Kulfi (Pack of 2)",
+      "closing": "No Added Sugar Dry Fruit Matka Kulfi (Pack of 2)"
+    },
+    "Grameen NAS Stick Kulfi Alphonso Mango 70ml X 1": {
+      "inventory": "No Added Sugar Alphonso Mango Stick Kulfi 70ml",
+      "closing": "No Added Sugar Alphonso Mango Stick Kulfi 70ml"
+    },
+    "Grameen NAS Stick Kulfi Desi Malai 70ml X 1": {
+      "inventory": "No Added Sugar Desi Malai Stick Kulfi 70ml",
+      "closing": "No Added Sugar Desi Malai Stick Kulfi 70ml"
+    },
+    "Grameen NAS Stick Kulfi Kesar Pista 70ml X 1": {
+      "inventory": "No Added Sugar Kesar Pista Stick Kulfi 70ml",
+      "closing": "No Added Sugar Kesar Pista Stick Kulfi 70ml"
+    },
+    "Meemees Mocha Caramel 1/2 Kg": {
+      "inventory": "Mocha Caramel Ice Cream Cake (1/2 Kg)",
+      "closing": "Mocha Caramel Ice Cream Cake (1/2 Kg)"
+    },
+    "Meemees The Signature 1/2 Kg": {
+      "inventory": "Meemee's SignatureIce Cream Cake (1/2 Kg)",
+      "closing": "Meemee's SignatureIce Cream Cake (1/2 Kg)"
+    },
+    "Meemees 70% Dark Chocolate Tub 100ml": {
+      "inventory": "70% Dark Chocolate Ice Cream Tub (100ml)",
+      "closing": "70% Dark Chocolate Ice Cream Tub (100ml)"
+    },
+    "Meemees Belgian Chocolate 100ml": {
+      "inventory": "Belgian Chocolate Ice Cream Tub (100ml)",
+      "closing": "Belgian Chocolate Ice Cream Tub (100ml)"
+    },
+    "Meemees Malted Cookie Dough Tub 100ml": {
+      "inventory": "Malted Cookie Dough Ice Cream Tub (100ml)",
+      "closing": "Malted Cookie Dough Ice Cream Tub (100ml)"
+    },
+    "Meemees Rocky Road 100ml": {
+      "inventory": "Rocky Road Ice Cream Tub (100ml)",
+      "closing": "Rocky Road Ice Cream Tub (100ml)"
+    },
+    "Meemees Sea Salt Caramel 100ml": {
+      "inventory": "Sea Salt Caramel Ice Cream Tub (100ml)",
+      "closing": "Sea Salt Caramel Ice Cream Tub (100ml)"
+    },
+    "Meemees Vietnamese Iced Coffee 100ml": {
+      "inventory": "Vietnamese Iced Coffee Ice cream Tub (100ml)",
+      "closing": "Vietnamese Iced Coffee Ice cream Tub (100ml)"
+    },
+    "Meemees Belgian Chocolate 500ml": {
+      "inventory": "Belgian Chocolate Ice Cream Tub (500ml)",
+      "closing": "Belgian Chocolate Ice Cream Tub (500ml)"
+    },
+    "Meemees Sea Salt Caramel 500ml": {
+      "inventory": "Sea Salt Caramel Ice Cream Tub (500ml)",
+      "closing": "Sea Salt Caramel Ice Cream Tub (500ml)"
+    },
+    "Meemees Vietnamese Iced Coffee 500ml": {
+      "inventory": "Vietnamese Iced Coffee Ice Cream Tub (500ml)",
+      "closing": "Vietnamese Iced Coffee Ice Cream Tub (500ml)"
+    },
+    "Meemees Roleys Belgian Chocolate": {
+      "inventory": "Roleys Belgian Chocolate (Box of 2)",
+      "closing": "Roleys Belgian Chocolate (Box of 2)"
+    },
+    "Meemees Roleys Brown Butter Almond": {
+      "inventory": "Roleys Brown Butter Almond (Box of 2)",
+      "closing": "Roleys Brown Butter Almond (Box of 2)"
+    },
+    "Meemees Roleys Cookies & Cream": {
+      "inventory": "Roleys Cookies & Cream  (Box of 2)",
+      "closing": "Roleys Cookies & Cream  (Box of 2)"
+    },
+    "Meemees Roleys Sea Salt Caramel": {
+      "inventory": "Roleys Sea Salt Caramel  (Box of 2)",
+      "closing": "Roleys Sea Salt Caramel  (Box of 2)"
+    },
+    "Meemees Roleys Vanilla Bean": {
+      "inventory": "Roleys Vanilla Bean (Box of 2)",
+      "closing": "Roleys Vanilla Bean (Box of 2)"
+    },
+    "Meemees Roleys Vietnamese Iced Coffee": {
+      "inventory": "Roleys Vietnamese Iced Coffee (Box of 2)",
+      "closing": "Roleys Vietnamese Iced Coffee (Box of 2)"
+    },
+    "Meemees Toasties Assorted Toasties (pack Of 6)": {
+      "inventory": "Assorted Toasties (Box of 6)",
+      "closing": "Assorted Toasties (Box of 6)"
+    },
+    "Meemees Toasties Belgian Chocolate.": {
+      "inventory": "Toasties Belgian Chocolate (Box of 2)",
+      "closing": "Toasties Belgian Chocolate (Box of 2)"
+    },
+    "Meemees Toasties Brown Butter Almond.": {
+      "inventory": "Toasties Brown Butter Almond (Box of 2)",
+      "closing": "Toasties Brown Butter Almond (Box of 2)"
+    },
+    "Meemees Toasties Cookies & Cream.": {
+      "inventory": "Toasties Cookies & Cream  (Box of 2)",
+      "closing": "Toasties Cookies & Cream  (Box of 2)"
+    },
+    "Meemees Toasties Sea Salt Caramel.": {
+      "inventory": "Toasties Sea Salt Caramel  (Box of 2)",
+      "closing": "Toasties Sea Salt Caramel  (Box of 2)"
+    },
+    "Meemees Toasties Vanilla Bean.": {
+      "inventory": "Toasties Vanilla Bean (Box of 2)",
+      "closing": "Toasties Vanilla Bean (Box of 2)"
+    },
+    "Meemees Toasties Vietnamese Iced Coffee.": {
+      "inventory": "Toasties Vietnamese Iced Coffee (Box of 2)",
+      "closing": "Toasties Vietnamese Iced Coffee (Box of 2)"
+    },
+    "Meemee's Signature 125 Ml": {
+      "inventory": "Meemee's Signature Tubsters (125ml)",
+      "closing": "Meemee's Signature Tubsters (125ml)"
+    },
+    "Meemees Cookie Monster 300 Ml": {
+      "inventory": "Cookie Monster Tubsters (300ml)",
+      "closing": "Cookie Monster Tubsters (300ml)"
+    },
+    "Meemees Meemee's Signature 300 Ml": {
+      "inventory": "Meemee's Signature Tubsters (300ml)",
+      "closing": "Meemee's Signature Tubsters (300ml)"
+    },
+    "Meemees Timeless Tiramisu 125 Ml": {
+      "inventory": "Timeless Tiramisu Tubsters (125ml)",
+      "closing": "Timeless Tiramisu Tubsters (125ml)"
+    },
+    "Meemees Timeless Tiramisu 300 Ml": {
+      "inventory": "Timeless Tiramisu Tubsters (300ml)",
+      "closing": "Timeless Tiramisu Tubsters (300ml)"
+    },
+    "Meemees Very Berry Cheesecake 300 Ml": {
+      "inventory": "Very Berry Cheesecake Tubsters (300ml)",
+      "closing": "Very Berry Cheesecake Tubsters (300ml)"
+    },
+    "Mimo Choco Disc Cone 120ml": {
+      "inventory": "Mimo Choco Disc Cone 120ml X 8",
+      "closing": "Mimo Choco Disc Cone 120ml X 8"
+    },
+    "Mimo Crave Cone Alphonso Mango 120ml": {
+      "inventory": "Mimo Crave Cone Alphonso Mango 120ml X 8",
+      "closing": "Mimo Crave Cone Alphonso Mango 120ml X 8"
+    },
+    "Mimo Crave Cone Black Currant 120ml": {
+      "inventory": "Mimo Crave Cone Black Currant 120ml X 8",
+      "closing": "Mimo Crave Cone Black Currant 120ml X 8"
+    },
+    "Mimo Crave Cone Crunchy Butterscotch 120ml": {
+      "inventory": "Mimo Crave Cone Crunchy Butterscotch 120ml X 8",
+      "closing": "Mimo Crave Cone Crunchy Butterscotch 120ml X 8"
+    },
+    "Mimo Crave Cone Rich Chocochips 120ml": {
+      "inventory": "Mimo Crave Cone Rich Chocochips 120ml X 8",
+      "closing": "Mimo Crave Cone Rich Chocochips 120ml X 8"
+    },
+    "Mimo Crave Cone Strawberry Rush 120ml": {
+      "inventory": "Mimo Crave Cone Strawberry Rush 120ml X 8",
+      "closing": "Mimo Crave Cone Strawberry Rush 120ml X 8"
+    },
+    "Mimo Mega Bar Almond Crunch 80ml": {
+      "inventory": "Mimo Mega Bar Almond Crunch 80ml X 8",
+      "closing": "Mimo Mega Bar Almond Crunch 80ml X 8"
+    },
+    "Mimo Mega Bar Alphonso Mango 80ml": {
+      "inventory": "Mimo Mega Bar Mango 80ml",
+      "closing": "Mimo Mega Bar Mango 80ml"
+    },
+    "Mimo Mega Bar Chocolate Truffle 80ml": {
+      "inventory": "Mimo Mega Bar Chocolate Truffle 80ml X 8",
+      "closing": "Mimo Mega Bar Chocolate Truffle 80ml X 8"
+    },
+    "Mimo Pista Almond Cup 120ml": {
+      "inventory": "Mimo Pista Almond Cup 120ml X 8",
+      "closing": "Mimo Pista Almond Cup 120ml X 8"
+    },
+    "Mimo Rajbhog Kulfi 50ml": {
+      "inventory": "Mimo Rajbhog Kulfi 50ml X 12",
+      "closing": "Mimo Rajbhog Kulfi 50ml X 12"
+    },
+    "Mimo Silk Chocolate Cup 120ml": {
+      "inventory": "Mimo Silk Chocolate Cup 120ml X 8",
+      "closing": "Mimo Silk Chocolate Cup 120ml X 8"
+    },
+    "Belgian Chocolate No Added Sugar 100ml": {
+      "inventory": "NIC Belgian Chocolate No Added Sugar 100ml",
+      "closing": "NIC Belgian Chocolate No Added Sugar 100ml"
+    },
+    "Nic Kesar Pista No Added Sugar 100ml No Added Sugar": {
+      "inventory": "NIC Kesar Pista No Added Sugar 100ml",
+      "closing": "NIC Kesar Pista No Added Sugar 100ml"
+    }
+  }
+}
